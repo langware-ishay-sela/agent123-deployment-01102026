@@ -2,7 +2,9 @@
   "type": "agent",
   "id": "4bc12c2f-e520-4301-b285-372314b44a33",
   "name": "Agent Hello Deployment",
+  "version": 2,
   "description": "",
+  "machine_size": "sm",
   "skills": [],
   "mcp_servers": [],
   "subagents": [],
@@ -13,7 +15,5 @@
   "enabled": true,
   "intro": "",
   "auto_launch": false,
-  "auto_launch_prompt": "",
-  "machine_size": "sm",
-  "version": 2
+  "auto_launch_prompt": ""
 }
